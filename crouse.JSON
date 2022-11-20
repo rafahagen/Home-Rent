@@ -17,11 +17,11 @@
     },
     {
         "id": 3,
-        "title": "just for checking",
+        "title": "For rent",
         "body": "Jose Portilla",
-        "price": "$12.5",
+        "price": "25000 tk",
         "rating": 4.2,
-        "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg"
+        "img": "https://pixabay.com/photos/living-room-interior-design-1835923/"
     },
     {
         "id": 4,
