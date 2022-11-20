@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Taming Big Data with Apache Spark and Python - Hands On!",
+        "body": "Sundog Education by Frank Kane",
+        "price": "$13.5",
+        "rating": 4.5,
+        "img": "https://img-c.udemycdn.com/course/240x135/622414_03f5_4.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+        "body": "Bryson Payne",
+        "price": "$12.56",
+        "rating": 4.7,
+        "img": "https://img-c.udemycdn.com/course/240x135/519554_da68_6.jpg"
+    },
+    {
+        "id": 3,
+        "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+        "body": "Jose Portilla",
+        "price": "$12.5",
+        "rating": 4.2,
+        "img": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Learn Python: The Complete Python Programming Course",
+        "body": "Avinash Jain, The Codex",
+        "price": "$13.5",
+        "rating": 4.6,
+        "img": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
+    },
+    {
+        "id": 5,
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+        "body": "Dr.Angela Yu",
+        "price": "$14",
+        "rating": 4.5,
+        "img": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg"
+    },
+    {
+        "id": 6,
+        "title": "The Web Developer Bootcamp 2022",
+        "body": "Colt Steele",
+        "price": "$13.99",
+        "rating": 4.8,
+        "img": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg"
+    },
+    {
+        "id": 7,
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "body": "Jonas Schmedtmann",
+        "price": "$13.5",
+        "rating": 4.7,
+        "img": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg"
+    }
+]
